@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandip-Chaudhary
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning ML.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web DEvelopment.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on .Net Project.
 - 📫 How to reach me ...
 
 <!---
